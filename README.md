@@ -1,9 +1,4 @@
 # BGADL
-# With the help from
-# https://github.com/znxlwm/pytorch-generative-model-collections
-# and
-# https://github.com/fahadm/Bayesian-Active-Learning-Pytorch
-
 # Requirements: Python 2.7 & Pytorch 0.3
 
 # To execute the code:
