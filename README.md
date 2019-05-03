@@ -1,5 +1,4 @@
 # BGADL
-# Pytorch implementation of the paper Bayesian Generative Active Deep Learning.
 # With the help from
 # https://github.com/znxlwm/pytorch-generative-model-collections
 # and
